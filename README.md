@@ -12,6 +12,9 @@ AutoApi系列：AutoApi、AutoApiSecret、AutoApiSR、AutoApiS
 | 项目名称 | 编译状态 |
 | :------: | :------: |
 | AutoApi | ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/xulingran/AutoApiSecret/Auto%20Api%20Secret?style=for-the-badge) |
+
+**进入[此链接](https://developer.microsoft.com/zh-cn/microsoft-365/profile)并使用个人账户登录即可查看是否续期成功。**
+
 ### 项目说明 ###
 * 利用github action实现**定时自动调用api**，保持E5开发活跃。
 * **免费，不需要额外设备/服务器**，部署完不用管啦。
